@@ -11,8 +11,9 @@ My modifications for personal use in a development environment.
     *Calculates and verifies SHA-1 hashes - link automatically generated to get the code
 ----
 How do I run .sh file shell script in Linux?
-sudo bash dlunzipwp.sh
-------
+
+`sudo bash dlunzipwp.sh`
+
 Note:
 (Spanish and Portuguese Portugal) - In the current version of WordPress 5.4.2, inside wp-config.php, different from some previous versions, the default values such as ('pon aquí tu phraseandom'), no is in current language, but in English. Therefore, when downloading a previous version, which has the sentence in Spanish, the script will not carry out the necessary configuration changes. Because I'm relying on the latest version.
 ....
