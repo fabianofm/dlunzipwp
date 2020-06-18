@@ -16,5 +16,6 @@ How do I run .sh file shell script in Linux?
 
 Note:
 (Spanish and Portuguese Portugal) - In the current version of WordPress 5.4.2, inside wp-config.php, different from some previous versions, the default values such as ('pon aquí tu phraseandom'), no is in current language, but in English. Therefore, when downloading a previous version, which has the sentence in Spanish, the script will not carry out the necessary configuration changes. Because I'm relying on the latest version.
-....
+
+
 based on the scritpt: bgallagh3r/wp.sh
