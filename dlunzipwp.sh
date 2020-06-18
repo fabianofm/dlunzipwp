@@ -1,7 +1,7 @@
 #!/bin/bash
 
 clear
-echo "=================================/dlunzipwp.sh============================================="
+echo "======================https://github.com/fabianofm/dlunzipwp==============================="
 echo "This script helps you to download, unzip the WordPress and added your database information."
 echo "Finish run the WordPress installation script by accessing the URL in a web browser."
 echo "==========================================================================================="
